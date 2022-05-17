@@ -1,0 +1,16 @@
+C:\Users\Spectre\OneDrive\Bureau\Try Catch examples\Example 3\Example 3\bin\Debug\net5.0\Example 3.exe
+C:\Users\Spectre\OneDrive\Bureau\Try Catch examples\Example 3\Example 3\bin\Debug\net5.0\Example 3.deps.json
+C:\Users\Spectre\OneDrive\Bureau\Try Catch examples\Example 3\Example 3\bin\Debug\net5.0\Example 3.runtimeconfig.json
+C:\Users\Spectre\OneDrive\Bureau\Try Catch examples\Example 3\Example 3\bin\Debug\net5.0\Example 3.runtimeconfig.dev.json
+C:\Users\Spectre\OneDrive\Bureau\Try Catch examples\Example 3\Example 3\bin\Debug\net5.0\Example 3.dll
+C:\Users\Spectre\OneDrive\Bureau\Try Catch examples\Example 3\Example 3\bin\Debug\net5.0\Example 3.pdb
+C:\Users\Spectre\OneDrive\Bureau\Try Catch examples\Example 3\Example 3\obj\Debug\net5.0\Example 3.csproj.AssemblyReference.cache
+C:\Users\Spectre\OneDrive\Bureau\Try Catch examples\Example 3\Example 3\obj\Debug\net5.0\Example 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spectre\OneDrive\Bureau\Try Catch examples\Example 3\Example 3\obj\Debug\net5.0\Example 3.AssemblyInfoInputs.cache
+C:\Users\Spectre\OneDrive\Bureau\Try Catch examples\Example 3\Example 3\obj\Debug\net5.0\Example 3.AssemblyInfo.cs
+C:\Users\Spectre\OneDrive\Bureau\Try Catch examples\Example 3\Example 3\obj\Debug\net5.0\Example 3.csproj.CoreCompileInputs.cache
+C:\Users\Spectre\OneDrive\Bureau\Try Catch examples\Example 3\Example 3\obj\Debug\net5.0\Example 3.dll
+C:\Users\Spectre\OneDrive\Bureau\Try Catch examples\Example 3\Example 3\obj\Debug\net5.0\refint\Example 3.dll
+C:\Users\Spectre\OneDrive\Bureau\Try Catch examples\Example 3\Example 3\obj\Debug\net5.0\Example 3.pdb
+C:\Users\Spectre\OneDrive\Bureau\Try Catch examples\Example 3\Example 3\obj\Debug\net5.0\Example 3.genruntimeconfig.cache
+C:\Users\Spectre\OneDrive\Bureau\Try Catch examples\Example 3\Example 3\obj\Debug\net5.0\ref\Example 3.dll
